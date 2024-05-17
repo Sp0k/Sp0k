@@ -1,7 +1,14 @@
-### Welcome! I'm Sp0k...
+## Welcome! I'm Sp0k,
+I am a second year Computer Science student at Dalhousie University (Halifax, Canada). I aspire to become a video
+game programmer one day. I'm currently working on these projects: ShiftNotes, BC-Wallet, Bifold-Wallet.
+
+I am also currently learning Ruby on Rails and React Native before attacking C# and C++.
 
 ![Sp0k's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sp0k&show_icons=true&theme=transparent)
 
+If you want to see more about me, please visit my [website]('https://gabsavard.com').
+
+While you're here, why don't you take a look at my projects...
 <!--
 **Sp0k/Sp0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
