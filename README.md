@@ -19,6 +19,6 @@ class Sp0k
   end
 end
 ```
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sp0k&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sp0k&theme=highcontrast&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
 If you want to see more about me, please visit my [website]('https://gabsavard.com'). While you're here, why don't you take a look at my projects...
