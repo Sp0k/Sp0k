@@ -6,7 +6,7 @@
 class Sp0k
   @name = 'Gab'
   @pronouns = 'He / Him'
-  @code = ['Java', 'C', 'JavaScript', 'Ruby', 'HTML', 'CSS", 'C#']
+  @code = ['Java', 'C', 'JavaScript', 'Ruby', 'HTML', 'CSS", 'C\#']
   @framework = ['React', 'React Native', 'Rails']
 
   def communities
