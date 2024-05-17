@@ -1,25 +1,27 @@
-## Welcome! I'm Sp0k,
-I am a second year Computer Science student at Dalhousie University (Halifax, Canada). I aspire to become a video
-game programmer one day. I'm currently working on these projects: ShiftNotes, BC-Wallet, Bifold-Wallet.
+<h2>Hey, I am Sp0k!</h2>
+<p><em>Computer Science student</em> at Dalhousie University<br>Intern Developer at <a href="https://credil.org/">CREDIL</a></p>
 
-I am also currently learning Ruby on Rails and React Native before attacking C# and C++.
+### A little more about me...
+```ruby
+class Sp0k
+  @name = 'Gab'
+  @pronouns = 'He / Him'
+  @code = ['Java', 'C', 'JavaScript', 'Ruby', 'HTML', 'CSS", 'C#']
+  @framework = ['React', 'React Native', 'Rails']
 
-![Sp0k's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sp0k&show_icons=true&theme=transparent)
+  def communities
+    case community
+    when 'Linux Society'
+      "Vice-president / Co-founder"
+    when 'Phi Delta Theta - Nova Scotia Alpha'
+      "Vice-president"
+    end
+  end
+end
+```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sp0k)](https://git.io/streak-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31koi5ffdnu7iprln2gbms6c2eye)
 
 If you want to see more about me, please visit my [website]('https://gabsavard.com').
 
 While you're here, why don't you take a look at my projects...
-<!--
-**Sp0k/Sp0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
