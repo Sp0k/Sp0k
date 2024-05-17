@@ -19,6 +19,6 @@ class Sp0k
   end
 end
 ```
-<center>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sp0k)](https://git.io/streak-stats)</center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sp0k)](https://git.io/streak-stats)]
 
 If you want to see more about me, please visit my [website]('https://gabsavard.com'). While you're here, why don't you take a look at my projects...
