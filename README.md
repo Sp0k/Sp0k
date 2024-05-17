@@ -1,4 +1,6 @@
-# Sp0k
+### Welcome! I'm Sp0k...
+
+[![Sp0k's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp0k)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sp0k/Sp0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
