@@ -1,4 +1,4 @@
-<h2>Hey, I am Sp0k!</h2>
+<h2>Hey, I am Gab!</h2>
 <p><em>Computer Science student</em> at Dalhousie University<br>Intern Developer at <a href="https://credil.org/">CREDIL</a></p>
 
 ### A little more about me...
