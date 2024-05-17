@@ -3,7 +3,7 @@
 
 ### A little more about me...
 ```ruby
-class Sp0k
+module Sp0k
   @name = 'Gab'
   @pronouns = 'He / Him'
   @code = ['Java', 'C', 'JavaScript', 'Ruby', 'HTML', 'CSS", 'C\#']
