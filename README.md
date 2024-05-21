@@ -1,5 +1,5 @@
 <h2>Hey, I am Gab!</h2>
-<p><em>Computer Science student</em> at Dalhousie University<br>Intern Developer at <a href="https://credil.org/">CREDIL</a></p>
+<p><em>Computer Science student</em> at Dalhousie University<br><em>Intern Developer</em> at <a href="https://credil.org/">CREDIL</a></p>
 
 ### A little more about me...
 ```ruby
