@@ -7,7 +7,7 @@ module Sp0k
   @name = 'Gab'
   @pronouns = 'He / Him'
   @code = ['Java', 'C', 'JavaScript', 'Ruby', 'HTML', 'CSS", 'C\#']
-  @framework = ['React', 'React Native', 'Rails']
+  @framework = ['React', 'React Native', 'Rails', Astro]
 
   def communities
     case community
