@@ -19,6 +19,6 @@ module Sp0k
   end
 end
 ```
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sp0k&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sp0k&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat&card_width=800&card_height=200)](https://git.io/streak-stats)
 
 If you want to see more about me, please visit my [website]('https://gabsavard.com'). While you're here, why don't you take a look at my projects...
