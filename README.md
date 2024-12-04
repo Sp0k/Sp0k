@@ -9,6 +9,7 @@ module Sp0k
   @code = ['Java', 'C', 'JavaScript', 'Ruby', 'HTML', 'CSS", 'C\#', 'Lua', 'Bash']
   @framework = ['React', 'React Native', 'Rails', 'Astro', 'Tailwindcss']
   @os = ['Pop!_OS', 'Ubuntu', 'UNIX', 'Windows']
+  @ongoing_projects = ['Aurora Terminal', 'NFCTM', 'Shipping Magic']
 
   def communities
     case community
