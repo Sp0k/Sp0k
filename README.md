@@ -1,20 +1,21 @@
 <h2>Hey, I am Gab!</h2>
-<p><em>Computer Science student</em> at Dalhousie University<br><em>Intern Developer</em> at <a href="https://credil.org/">CREDIL</a></p>
+<p><em>Computer Science student</em> at Dalhousie University</p>
 
 ### A little more about me...
 ```ruby
 module Sp0k
   @name = 'Gab'
   @pronouns = 'He / Him'
-  @code = ['Java', 'C', 'JavaScript', 'Ruby', 'HTML', 'CSS", 'C\#']
-  @framework = ['React', 'React Native', 'Rails', 'Astro']
+  @code = ['Java', 'C', 'JavaScript', 'Ruby', 'HTML', 'CSS", 'C\#', 'Lua', 'Bash']
+  @framework = ['React', 'React Native', 'Rails', 'Astro', 'Tailwindcss']
+  @os = ['Pop!_OS', 'Ubuntu', 'UNIX', 'Windows']
 
   def communities
     case community
     when 'Linux Society'
       "Vice-president / Co-founder"
     when 'Phi Delta Theta - Nova Scotia Alpha'
-      "Vice-president"
+      "Recruitment Chair"
     end
   end
 end
